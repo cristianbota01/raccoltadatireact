@@ -1,0 +1,7 @@
+.registration-form{
+    width: 300px;
+    min-height: 400px;
+    max-height:fit-content;
+
+    background-color: aliceblue;
+}
